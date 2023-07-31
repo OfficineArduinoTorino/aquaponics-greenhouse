@@ -24,8 +24,8 @@ Un primo semplice rendering del progetto lo si può vedere qui, il progetto serr
 
 ![team](./data/team.jpg)
 
-Giacomo Bellini, Agronomist
-Davide Gomba, PM, formatore IoT, 
+**Giacomo Bellini**, Agronomist  
+[**Davide Gomba**](https://www.linkedin.com/in/davidegomba/), PM, formatore IoT,   
 
 Per informazioni: edu@officine.cc 
 
@@ -122,22 +122,21 @@ Elementi nuovi
 
 ### 7) Modulo Filtro Biologico
 
-1) **contenitore almeno da 5L (o scura, tanica, tipo da benzina)**
-2) bio-balls
-3) ossigenatore
-4) attivatori biologici
+1) **contenitore almeno da 5L (o scura, tanica, tipo da benzina)**  
+2) bio-balls  
+3) ossigenatore  
+4) attivatori biologici  
 
 ### 8) Contenitore di analisi
 
-**1) sonda ph**
-2) sonda ec
-3) **wio terminal / MCU / schedina nostra** (capire Arturo)
-	1) alimentazione per la pompa
-	2) alimentazione per la mangiatoia
-	3) (opzionale) piccolo UPS
-	4) alimentazione luci 
-	5) vari buck converters
-4) potenziometro per regolare velocità della pompa (che diventerà PWM)
-5) **anlizzatore di consumi**
-6) Aliemntatore 220V --> 12V bello pesante di pamperaggio
-7) va
+1) sonda ph  
+2) sonda ec  
+3) **wio terminal / MCU / schedina nostra** (capire Arturo)  
+	- alimentazione per la pompa  
+	- alimentazione per la mangiatoia  
+	- (opzionale) piccolo UPS  
+	- alimentazione luci   
+	- vari buck converters  
+4) potenziometro per regolare velocità della pompa (che diventerà PWM)  
+5) **anlizzatore di consumi**  
+6) Aliemntatore 220V --> 12V bello pesante di pamperaggio  
