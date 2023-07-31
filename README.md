@@ -3,7 +3,7 @@ an online repository to save and edit some how-tos about the modular aquaponics 
 
 TODO: made the repository bi-lingual 
 
-![header](./data/header-img.png)
+![header](./data/header.png)
 
 ## Intro
 
