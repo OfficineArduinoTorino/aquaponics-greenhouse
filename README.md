@@ -3,7 +3,7 @@ an online repository to save and edit some how-tos about the modular aquaponics 
 
 TODO: made the repository bi-lingual 
 
-![header](./data/header-img.jpg)
+![header](./data/header-img.png)
 
 ## Intro
 
@@ -22,7 +22,7 @@ Un primo semplice rendering del progetto lo si può vedere qui, il progetto serr
 
 ## Team 
 
-![team](./data/team,jpg)
+![team](./data/team.jpg)
 
 Giacomo Bellini, Agronomist
 Davide Gomba, PM, formatore IoT, 
